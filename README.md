@@ -117,11 +117,11 @@ Monorepo features and conventions:
 <!-- Deployments  App -->
 
 [deploy-app-prod-badge]: https://img.shields.io/badge/App-prod-blue?logo=netlify&logoColor=white
-[deploy-app-prod-url]: https://turbo-app-prod.netlify.app/
+[deploy-app-prod-url]: https://zhr-app-prod.netlify.app/
 [deploy-app-stage-badge]: https://img.shields.io/badge/App-stage-blue?logo=netlify&logoColor=white
-[deploy-app-stage-url]: https://turbo-app-stage.netlify.app/
+[deploy-app-stage-url]: https://zhr-app-stage.netlify.app/
 [deploy-app-storybook-badge]: https://img.shields.io/badge/App-storybook-blue?logo=storybook&logoColor=white
-[deploy-app-storybook-url]: https://turbo-app-storybook.netlify.app/
+[deploy-app-storybook-url]: https://zhr-app-storybook.netlify.app/
 
 <!-- Deployments  Website -->
 
