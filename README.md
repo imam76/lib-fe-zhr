@@ -107,8 +107,8 @@ Monorepo features and conventions:
 - Merging to `main` branch deploys to `stage` environment, creating new GitHub release deploys to `production`.
 - Monorepo doesn't implement any high-level architectures (islands, micro-frontends), but is prepared with that in mind, so it can be easily extended (page composition, adding shared state etc.)
 
-[ci-badge]: https://github.com/mkosir/frontend-monorepo-boilerplate/actions/workflows/CI.yml/badge.svg
-[ci-url]: https://github.com/mkosir/frontend-monorepo-boilerplate/actions/workflows/CI.yml
+[ci-badge]: https://github.com/imam76/lib-fe-zhr/actions/workflows/CI.yml/badge.svg
+[ci-url]: https://github.com/imam76/lib-fe-zhr/actions/workflows/CI.yml
 [typescript-badge]: https://badges.frapsoft.com/typescript/code/typescript.svg?v=101
 [typescript-url]: https://github.com/microsoft/TypeScript
 [semantic-badge]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
