@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "open http://localhost:3100 && vite",
+    "dev": "start http://localhost:3100 && vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint --report-unused-disable-directives --max-warnings 0 .",
